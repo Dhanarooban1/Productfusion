@@ -5,12 +5,16 @@ A modern, high-performance React e-commerce platform built with Vite, featuring 
 🚀 Live Demo
 [Visit Product Fusion](https://productfusion.vercel.app/)
 
-✨ Features
-Product Catalog: Advanced filtering and search with category-based browsing
-Smart Cart Management: Real-time price calculations with persistent cart state
+## ✨ Features
+Product Catalog: Advanced filtering and search with category-based browsing.
+
+Smart Cart Management: Real-time price calculations with persistent cart state.
+
 Optimized Performance: The application is optimized for performance and scalability.
-Streamlined Checkout: Complete order processing with detailed confirmation
-Sales Analytics: Interactive dashboard with trend visualization and performance metrics
+
+Streamlined Checkout: Complete order processing with detailed confirmation.
+
+Sales Analytics: Interactive dashboard with trend visualization and performance metrics.
 
 🔧Optimizations
 This project implements performance optimizations to ensure a smooth user experience. 
