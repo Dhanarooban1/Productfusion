@@ -22,9 +22,9 @@ This project implements performance optimizations to ensure a smooth user experi
 Key Optimizations
 
 State Management: 
-useReducer for efficient cart operations
-useMemo for derived states to prevent unnecessary re-renders
-Optimized component re-rendering patterns
+> useReducer for efficient cart operations.
+> useMemo for derived states to prevent unnecessary re-renders.
+> Optimized component re-rendering patterns.
 
 Data & Performance:
 Smart Caching: Product data cached with timestamp validation
