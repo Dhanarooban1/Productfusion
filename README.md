@@ -37,19 +37,20 @@ This project implements performance optimizations to ensure a smooth user experi
 - Neurodesign Principles: I implemented visual hierarchy by making product titles larger than descriptions and using contrasting colors for price and 'Add to Cart' buttons to draw attention to key decision points
 
 For detailed information about the optimizations, refer to the Optimization Review file.
-🛠️ Tech Stack
+
+## 🛠️ Tech Stack
 
 Frontend: React 18 with Vite
 Deployment: Vercel
 Runtime: Node.js (v16+)
 Package Manager: npm or yarn
 
-📋 Prerequisites
+## 📋 Prerequisites
 
 Node.js (v16+)
 npm or yarn
 
-🚀 Installation
+## 🚀 Installation
 
 1. Clone the repository
 ```bash
