@@ -1,4 +1,4 @@
-Product Fusion E-commerce Platform
+# Product Fusion E-commerce Platform
 
 A modern, high-performance React e-commerce platform built with Vite, featuring comprehensive shopping functionality and advanced sales analytics.
 
