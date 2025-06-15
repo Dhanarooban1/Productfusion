@@ -21,32 +21,38 @@ This project implements performance optimizations to ensure a smooth user experi
 
 Key Optimizations
 
-State Management: 
-> useReducer for efficient cart operations.
-> useMemo for derived states to prevent unnecessary re-renders.
-> Optimized component re-rendering patterns.
+State Management
 
-Data & Performance:
+useReducer for efficient cart operations
+useMemo for derived states to prevent unnecessary re-renders
+Optimized component re-rendering patterns
+
+Data & Performance
+
 Smart Caching: Product data cached with timestamp validation
 Debounced Search: Smooth search experience without excessive API calls
 Code Splitting: Dynamic imports with React.lazy for reduced initial bundle
 Virtualized Rendering: Infinite scroll for large product lists
 
-Persistence & UX:
+Persistence & UX
+
 Local Storage Integration: Cart and filter preferences persist across sessions
-Neurodesign Principles: I implemented visual hierarchy by making product titles larger than descriptions and using contrasting colors for price and 'Add to Cart' buttons to draw attention to key decision points.
+Neurodesign Principles: I implemented visual hierarchy by making product titles larger than descriptions and using contrasting colors for price and 'Add to Cart' buttons to draw attention to key decision points
 
 For detailed information about the optimizations, refer to the Optimization Review file.
-
-## 🛠️ Tech Stack
+🛠️ Tech Stack
 
 Frontend: React 18 with Vite
 Deployment: Vercel
+Runtime: Node.js (v16+)
+Package Manager: npm or yarn
+
+📋 Prerequisites
 
 Node.js (v16+)
 npm or yarn
 
-Installation
+🚀 Installation
 
 Clone the repository
 bashgit clone https://github.com/Dhanarooban1/Productfusion.git
